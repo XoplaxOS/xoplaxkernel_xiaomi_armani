@@ -1896,7 +1896,7 @@ config CPU_OVERCLOCK
 	bool "enable CPU overclocking option"
  	default n
  	help
- 	  Enable CPU underclocking to 1.65GHz
+ 	  Enable CPU overclocking to 1.65GHz
 
 config MSM_AVS_HW
 	bool "Enable Adaptive Voltage Scaling (AVS)"
